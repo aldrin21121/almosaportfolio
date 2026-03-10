@@ -1,0 +1,91 @@
+body{
+    background-color:#f4f4f4;
+    color:#333;
+    line-height:1.6;
+}
+
+
+header{
+    background:#333;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+
+nav{
+    margin-top:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#ffcc00;
+}
+
+
+section{
+    
+}
+
+
+h2{
+    margin-bottom:10px;
+    color:#333;
+}
+
+
+ul{
+    list-style-type:square;
+    margin-left:20px;
+}
+
+#contact{
+    text-align:center;
+}
+
+.container{
+	display:flex;
+	justify-content:space-around;
+}
+
+.card{
+	border:3px solid black;
+	border-radius:10px;
+	background-color:gray;
+	padding:50px;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+	
+a:hover{
+	color:white;
+}
+
+img{
+	height:200px;
+	width:200px;
+	border:3px solid black;
+	border-radius:20px;
+}
+main{
+	background-color: black;
+	color: white;
+	width: 300px;
+	border: 3px solid white;
+	border-radius: 10px;
+}
+
+body{
+	background-image: url('https://th.bing.com/th/id/OIP.zufRWe9f_pvaL4brvRz3lQHaGl?w=191&h=180&c=7&r=0&o=7&pid=1.7&rm=3');
+	
+	
+}
